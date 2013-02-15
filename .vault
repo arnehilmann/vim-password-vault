@@ -1,0 +1,12 @@
+# vim: nobk nowb noswf bh=wipe tw=0 fcl=all fdl=1 fdm=marker fmr={,} fdl=0 cm=blowfish is ic
+
+{
+http://www.example.com/
+foo
+bar
+}
+{
+http://www.google.com/
+ham
+eggs
+}
